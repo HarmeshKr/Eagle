@@ -3,3 +3,6 @@ Console.WriteLine("Hello, World!");
 
 
 Console.WriteLine(DateTime.Now.ToString());
+
+
+Console.WriteLine("Hello, World!");
